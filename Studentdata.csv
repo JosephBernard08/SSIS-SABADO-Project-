@@ -1,13 +1,50 @@
-Ruby Bendoy,2021-0001,2,Female,BS HM
-,,,,
-Joseph Bernard Sabado,2021-0002,2,Male,BS STAT
-,,,,
-Lordelle Vicoy,2021-0003,1,Female,AB HISTORY
-,,,,
-Kevin Lloyd Baul,2021-0004,2,Male,BS ME
-,,,,
-Mary Abigail Dagondon,2021-0005,2,Female,BAELS
-,,,,
-Carlo Bucabal,2021-0006,3,Male,BS MATH
-,,,,
-Jaireh Mae Borres,2021-0007,1,Female,BS PHYSICS
+Student ID Number,Last Name,First Name,Middle Name,Gender,Year Level,Course
+2019-0002,Fortuito,Lovely Ann,Denorog,Female,2nd Year,BS Social Work
+2019-0003,Abott,Kylia,Mendez,Female,3rd Year,BS STAT
+2020-0004,Abela,Daniela ,Rodriguez,Female,1st Year,BS STAT
+2018-0005,Maghinay,Reignsmyl,Postrano,Female,3rd Year,BS STAT
+2019-0006,Elga,Renalyn,Echavez,Female,2nd Year,BS MATH
+2019-0007,Mejorada,Aaron,Diez,Male,2nd Year,BS Marine Bio
+2020-0008,Gabutan,Raine Chelsea,Ebardo,Female,1st Year,BS Chemistry
+2020-0009,Dagondon,Mary Abigail,Sabado,Female,1st Year,BA History
+2018-0010,Bendoy,Ruby,Reyes,Female,3rd Year,BS HM
+2018-0011,Vicoy,Lordelle,Malone,Female,3rd Year,BS MATH
+2018-0012,Randa,Eulyza,Roa,Female,3rd Year,BS STAT
+2019-0013,Obdamen,Rado,Bucabal,Male,2nd Year,BS IT
+2020-0014,Herro,Tyler,Reed,Male,1st Year,BS STAT
+2019-0015,Pepito,Honey Kimberly,Suan,Female,2nd Year,BS Marine Bio
+2019-0016,Uy,Shekinah Rica,Cabasag,Female,2nd Year,BS Animal Bio
+2019-0017,Gongob,Hannah Micah,Virtudez,Female,2nd Year,BS Animal Bio
+2019-0018,Hornejas ,Alfritz,Paglinawan,Male,2nd Year,BS IT
+2019-0019,Igot,Kenith,Selem,Male,2nd Year,BS IT
+2020-0020,Guatno,Loreen Grace,Gaas,Female,1st Year,BS MATH
+2019-0021,Cabantes,Roxan,Tebalan,Female,2nd Year,BS Physics
+2019-0022,Auman,Daryl,Emperoso,Male,2nd Year,BS Physics
+2019-0023,Orilla,Daisy Mae,Burgos,Female,2nd Year,BS MATH
+2019-0024,Lenogon,Tom Julce,Johnson,Male,2nd Year,BS STAT
+2019-0025,Casia,King BG,Macosta,Male,2nd Year,BS STAT
+2019-0026,Casia,Jade,Remolado,Male,2nd Year,BS MATH
+2019-0027,Balbutin,Queen Grace,Catipay,Female,2nd Year,BS STAT
+2019-0028,Verdadero,Arnel,Bucabal,Male,2nd Year,BS MATH
+2019-0029,Maata,Daphne,Manosa,Female,2nd Year,BS Marine Bio
+2019-0030,Sabela,Angelyn ,Bangcong,Female,2nd Year,BS Maring Bio
+2019-0031,Basco,Jared James,Lumantas,Male,2nd Year,BS IT
+2020-0032,Bagood,Justin,Lumingkit,Male,1st Year,BS IT
+2019-0033,Cabahug,Hanna Mae,Perez,Female,2nd Year,BS IT
+2019-0034,Gongob,Mae,Andebor,Female,2nd Year,BS MATH
+2019-0035,Patria,Christian,Diez,Male,2nd Year,BS IT
+2019-0036,Enoy,Aubrey Sheen,Pepito,Female,2nd Year,BS STAT
+2019-0037,Andaloc,Calil Cyle,Imam,Male,2nd Year,BS STAT
+2019-0038,Magsayo,Lowella Joy,Tompong,Female,2nd Year,BS STAT
+2019-0040,Villareal,Ayessa Mae,Apdua,Female,2nd Year,BA History
+2020-0041,Alisna,Malou,Santinlo,Female,1st Year,BS HM
+2019-0042,Baul,Kevin Lloyd ,Arseno,Male,2nd Year,BS STAT
+2019-0043,Cabug ,John Carlo,Gemida,Male,2nd Year,BS IT
+2019-0044,San Luis,John Kris,Malisod,Male,2nd Year,BS ME
+2019-0045,Yangyang,John Patrick,Enriquez,Male,2nd Year,BS Plant Bio
+2019-0046,Alisna,Joyce,Santinlo,Female,2nd Year,BS HM
+2020-0047,Bombeo,Zoren Lloyd,Mejorada,Male,2nd Year,BS HM
+2019-0048,Cabando ,Jimuel,Macosta,Male,2nd Year,BS STAT
+2019-0049,Granaderos,Timothy James,Arozco,Male,2nd Year,BS IT
+2019-0050,Sabado,Joseph Bernard,Macapobre,Male,2nd Year,BS STAT
+2019-0001,Ansao,Justin Allan,Aying,Male,2nd Year,BS STAT
